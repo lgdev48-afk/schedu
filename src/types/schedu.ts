@@ -8,7 +8,7 @@ export const DAYS: { key: Day; label: string }[] = [
   { key: "Sex", label: "Sexta" },
 ];
 
-export const TIMES = ["07:30", "08:30", "09:30", "10:45", "11:45"];
+export const TIMES = ["07:00", "08:00", "09:20", "10:25", "11:20", "13:20", "14:20", "15:20"];
 
 export type BlockStatus = "normal" | "absence" | "substituted";
 
